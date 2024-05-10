@@ -1,7 +1,7 @@
 <div align=left><h1>📚 Tech Stacks</h1></div>
 
 <div align=left> 
-  <h4>Language</h4>
+  <h4>Programming Language</h4>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
